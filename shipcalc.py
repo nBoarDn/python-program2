@@ -1,6 +1,6 @@
 ##
 # Title:  Shipping Calculator
-# Author: Brandon Maynard
+# Author: B
 # Date: 9/17/17
 # Purpose: The program allows for input to be received for the shipping info and
 #           calculate the total costs based on selections made
